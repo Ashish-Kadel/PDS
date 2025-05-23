@@ -1,1 +1,1 @@
-# PDS
+Pneumonia Detection System
